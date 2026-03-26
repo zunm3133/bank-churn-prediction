@@ -8,7 +8,7 @@ An end-to-end machine learning project that predicts which bank customers are li
 
 Customer churn costs banks significantly more than retention. This project builds a classification pipeline on 10,000 customer records to identify high-risk customers early, enabling proactive retention strategies.
 
-**Dataset:** [Kaggle — Bank Customer Churn (Churn_Modelling.csv)](https://www.kaggle.com/datasets/shubhammeshram579/bank-customer-churn-prediction)  
+**Dataset:** [Kaggle — Bank Customer Churn (Churn_Modelling.csv)](https://www.kaggle.com/datasets/shrutimechlearn/churn-modelling)  
 10,000 rows · 11 features · 20.4% churn rate (imbalanced)
 
 ---
@@ -125,7 +125,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn joblib
 ```
 
 **3. Add the dataset**  
-Download `Churn_Modelling.csv` from [Kaggle](https://www.kaggle.com/datasets/shubhammeshram579/bank-customer-churn-prediction) and place it in `data/raw/`.
+Download `Churn_Modelling.csv` from [Kaggle](https://www.kaggle.com/datasets/shrutimechlearn/churn-modelling) and place it in `data/raw/`.
 
 **4. Run the notebooks in order**
 ```
